@@ -24,7 +24,7 @@ Enough of stupid definitions. Let's call it a document that has essential inform
 Reading our definition again and again, till we fall asleep, we understand that it is a heavily data backed document (supported by a beautiful tale of conquering a billion dollar market). 
 
 So, what kind of data are we looking at? 
-![Customer Data](https://imgur.com/a/GJvbXJs.jpg)
+[Customer Data](https://imgur.com/a/GJvbXJs.jpg)
 
 #### What goes in a Business Plan?
 
